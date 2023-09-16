@@ -4,3 +4,7 @@ Peso Formatter Extension is made for Filipinos like Me
 2. Open Source
 3. Simple but Small
 4. MIT Liscence
+
+Download Link:
+My Website: 
+Github:
