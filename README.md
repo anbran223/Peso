@@ -13,6 +13,4 @@ I Don't Personally Recommend Everyone To Use My Extension for making the value o
 <img src="https://raw.githubusercontent.com/anbran223/Peso/main/-peso-app.PNG"/>
 
 But Try Other Extensions: 
-<a href="https://community.kodular.io/t/textutils-extension/102791/7?u=brandon_ang">TextUtils Extension</a>
-
-Thank You Maurits! (for helping us download the extension) & Thank You Hossein! (for developing the extension)
+like CurrencyFormatter by Spicy Topics aka Still-Learning, GSR
