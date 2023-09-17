@@ -10,7 +10,7 @@ Download Link: <a href="https://github.com/anbran223/Peso/raw/main/com.brandonan
 My Website: <a href="https://sites.google.com/view/ai2-brandonang">My Website
 
 I Don't Personally Recommend Everyone To Use My Extension for making the value of 1,000 or else the result is wrong 
-[image](https://raw.githubusercontent.com/anbran223/Peso/main/-peso-app.PNG)
+<img src="https://raw.githubusercontent.com/anbran223/Peso/main/-peso-app.PNG"/>
 
 But Try Other Extensions: 
 <a href="https://community.kodular.io/t/textutils-extension/102791/7?u=brandon_ang">TextUtils Extension</a>
