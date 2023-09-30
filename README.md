@@ -13,4 +13,4 @@ I Don't Personally Recommend Everyone To Use My Extension for making the value o
 <img src="https://raw.githubusercontent.com/anbran223/Peso/main/-peso-app.PNG"/>
 
 But Try Other Extensions: 
-like CurrencyFormatter by Spicy Topics aka Still-Learning, GSR
+like CurrencyFormatter by Spicy Topics aka Still-Learning, GSR or the Helper Extension i made
