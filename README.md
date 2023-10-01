@@ -1,6 +1,6 @@
 # Peso
 Peso Formatter & Piso Extension is made for Filipinos like Me
-1. Made with Niotron IDE (https://ide.niotron.com/) (Peso Formatter) Made with Rush (Piso)
+1. Made with Niotron IDE (https://ide.niotron.com/) (Peso Formatter) Made with Love (Piso)
 2. Open Source (Peso) Closed Source (Piso)
 3. Simple but Small
 4. MIT License
